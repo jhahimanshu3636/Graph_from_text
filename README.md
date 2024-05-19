@@ -2,8 +2,7 @@
 
 A Python tool that can convert any text into a graph of knowedge given an ontology.
 
-![The Graph Maker](./assets/GraphMaker.png)
-_Image generated using Adobe Firefly and Photoshop_
+
 
 ## What is a knowledge graph?
 
